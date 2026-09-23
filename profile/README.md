@@ -2,7 +2,7 @@
 
 <img src="./lucha-logo.png" alt="Lucha" width="120" />
 
-<h2>Lucha · Tech & Operaciones</h2>
+<h2>Lucha</h2>
 
 <p><strong>Empresas en las que el planeta invertiría.</strong><br/>
 Construimos los agentes y automatizaciones que sostienen la operación de Lucha y de su ecosistema de founders.</p>
