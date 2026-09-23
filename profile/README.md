@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lucha-logo.png" alt="Lucha" width="120" />
+<img src="./lucha-logo.png" alt="Lucha" width="120" />
 
 <h2>Lucha</h2>
 
