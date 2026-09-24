@@ -26,7 +26,7 @@ Agentes de IA que trabajan junto al equipo en los canales donde ya ocurre el tra
 
 ### Stack
 
-`n8n` · `Supabase` · `Notion` · `Slack` · `WhatsApp` · `Claude` · `Vercel`
+`n8n` · `Supabase` · `Notion` · `Slack` · `Kapso` · `Google Workspace`
 
 ---
 
